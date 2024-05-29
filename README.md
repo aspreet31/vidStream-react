@@ -48,11 +48,11 @@ The application will typically open in your default web browser at **http://loca
 
 ### Video Detail
 
-![image](https://github.com/aspreet31/vidStream-react/assets/103019348/7c0d5097-6aad-4da9-a95a-da7fc0b6ee69)
+![image](https://github.com/aspreet31/vidStream-react/assets/103019348/8e394a44-be34-4871-9920-dbb2dc6bed9a)
 
 ### Channel Detail
 
-![image](https://github.com/aspreet31/vidStream-react/assets/103019348/eff5f940-ebfd-46ec-b0c6-9de68db8a88e)
+![image](https://github.com/aspreet31/vidStream-react/assets/103019348/be37a7a9-a7d9-4033-b753-7e63d3b17161)
 
 
 
