@@ -2,7 +2,7 @@
 
 This repository holds the code for **VidStream**, a user-friendly video streaming application built with **ReactJS** and **Material UI.** 
 
-**Key Features:**
+## Key Features:
 
 ### Watch Videos
 ### Search Videos
